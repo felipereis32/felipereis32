@@ -3,23 +3,24 @@
 
 # 🕷️ Spider
 
-### `Desenvolvedor em formação | Python | Tecnologia`
+### `Desenvolvedor Python | Projetos Pessoais | Automação`
 
-*Transformando ideias em código, um projeto de cada vez.*
+*Transformando ideias em soluções através do código.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-felipereis32-181717?style=for-the-badge&logo=github)](https://github.com/felipereis32)
-[![Python](https://img.shields.io/badge/Python-Estudando-7B68EE?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-Developer-7B68EE?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 </div>
 
 ---
 
-## 👾 Sobre mim
+## 👨‍💻 Sobre mim
 
-- 💻 Estudando programação e desenvolvimento de software.
-- 🐍 Aprendendo e desenvolvendo projetos com Python.
-- 🎮 Interessado em jogos, tecnologia e automação.
-- 🚀 Construindo projetos para aprender na prática e evoluir como desenvolvedor.
+- 🐍 Desenvolvedor Python focado na criação de soluções e aplicações.
+- 🛠️ Desenvolvendo projetos pessoais para colocar ideias em prática.
+- 🚀 Construindo meu portfólio com projetos próprios.
+- ⚙️ Interesse em automação, ferramentas e desenvolvimento de software.
+- 🎮 Entusiasta de tecnologia e jogos.
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -57,6 +58,6 @@ Aplicação em Python para buscar, baixar e instalar campanhas personalizadas pa
 
 <div align="center">
 
-*Sempre aprendendo. Sempre construindo.*
+*Criando projetos. Resolvendo problemas. Evoluindo através do código.*
 
 </div>
